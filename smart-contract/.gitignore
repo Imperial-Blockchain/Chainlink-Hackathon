@@ -1,6 +1,6 @@
 trash/
 docs/
-deployments/
+# deployments/
 
 # vscode
 .vscode
